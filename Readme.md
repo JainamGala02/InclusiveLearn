@@ -1,4 +1,4 @@
-#Inclusive Learn is an innovative e-learning platform designed to cater to the needs of disabled students. The platform consists of three main modules aimed at providing an inclusive learning experience for students with disabilities.
+Inclusive Learn is an innovative e-learning platform designed to cater to the needs of disabled students. The platform consists of three main modules aimed at providing an inclusive learning experience for students with disabilities.
 The first module is a sign language detection model developed using Mediapipe, Tensorflow, and a normal classification model using Tensorflow. This model enables students with hearing impairments to communicate through sign language, making the learning process more accessible and inclusive.
 
 The second module is an object detection model developed using YOLOv5. This module assists visually impaired students by identifying objects and their surroundings, making it easier for them to navigate and interact with their environment.
