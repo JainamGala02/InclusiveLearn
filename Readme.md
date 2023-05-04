@@ -16,7 +16,7 @@ To run the Flask file and demonstrate the project, follow these steps:
 5. Install the required dependencies using the command: pip install -r requirements.txt
 6. Run the Flask app using the command: flask run
 7. Access the application by visiting http://127.0.0.1:5000/ in your web browser.
-8. 
+
 With these steps, you can run the Flask app and explore the Inclusive Learn platform's various features and modules.
 
 
