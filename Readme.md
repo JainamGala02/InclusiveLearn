@@ -9,7 +9,7 @@ The frontend of the platform is developed using HTML and CSS, while the backend 
 
 To run the Flask file and demonstrate the project, follow these steps:
 
-1. Clone the repository to your local machine using the command: git clone https://github.com/your_username/Inclusive-Learn.git
+1. Clone the repository to your local machine using the command: git clone https://github.com/JainamGala02/InclusiveLearn.git
 2. Navigate to the project directory using the command: cd Inclusive-Learn
 3. Create a virtual environment using the command: python3 -m venv env
 4. Activate the virtual environment using the command: source env/bin/activate
